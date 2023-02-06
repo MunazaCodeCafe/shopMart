@@ -1,0 +1,13 @@
+C:\Users\DEVELOPER\source\repos\shopMart\shopMart\bin\Debug\shopMart.exe.config
+C:\Users\DEVELOPER\source\repos\shopMart\shopMart\bin\Debug\shopMart.exe
+C:\Users\DEVELOPER\source\repos\shopMart\shopMart\bin\Debug\shopMart.pdb
+C:\Users\DEVELOPER\source\repos\shopMart\shopMart\obj\Debug\shopMart.csproj.AssemblyReference.cache
+C:\Users\DEVELOPER\source\repos\shopMart\shopMart\obj\Debug\shopMart.csproj.SuggestedBindingRedirects.cache
+C:\Users\DEVELOPER\source\repos\shopMart\shopMart\obj\Debug\shopMart.Form1.resources
+C:\Users\DEVELOPER\source\repos\shopMart\shopMart\obj\Debug\shopMart.Properties.Resources.resources
+C:\Users\DEVELOPER\source\repos\shopMart\shopMart\obj\Debug\shopMart.csproj.GenerateResource.cache
+C:\Users\DEVELOPER\source\repos\shopMart\shopMart\obj\Debug\shopMart.csproj.CoreCompileInputs.cache
+C:\Users\DEVELOPER\source\repos\shopMart\shopMart\obj\Debug\shopMart.exe
+C:\Users\DEVELOPER\source\repos\shopMart\shopMart\obj\Debug\shopMart.pdb
+C:\Users\DEVELOPER\source\repos\shopMart\shopMart\obj\Debug\shopMart.Login.resources
+C:\Users\DEVELOPER\source\repos\shopMart\shopMart\obj\Debug\shopMart.singup.resources
